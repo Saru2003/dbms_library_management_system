@@ -2,4 +2,3 @@ pip==23.0.1
 streamlit-option-menu
 pandas
 pymongo
-time
